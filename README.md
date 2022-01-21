@@ -1,1 +1,3 @@
-# wecode
+- git remote add origin 깃헙 주소 : 로컬에서 깃헙에 연동시켜준다.
+- git checkout -b feature/README : 브랜치를 생성하고 해당 브랜치로 이동한다.
+- git push origin master : 깃헙에 내가 작성한 파일을 올려준다.
